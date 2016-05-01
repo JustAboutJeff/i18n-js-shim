@@ -1,0 +1,9 @@
+{
+  "name": "i18n-js-shim",
+  "version": "2.1.2",
+  "author": "Jeff Belser",
+  "license": "UNLICENSED",
+  "private": true,
+  "description": "CJS compliant shim of the javascript source from i18n-js the ruby gem",
+  "main": "index.js"
+}
